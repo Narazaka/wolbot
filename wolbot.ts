@@ -1,4 +1,4 @@
-import { createBot, Intents, sendMessage, startBot } from "https://deno.land/x/discordeno@18.0.1/mod.ts";
+import { createBot, Intents, sendMessage, startBot } from "https://deno.land/x/discordeno@13.0.0/mod.ts";
 
 const config: {
     token: string;
